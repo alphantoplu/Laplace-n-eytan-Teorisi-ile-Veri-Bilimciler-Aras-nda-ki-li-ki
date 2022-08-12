@@ -1,0 +1,1 @@
+# Laplace-n-eytan-Teorisi-ile-Veri-Bilimciler-Aras-nda-ki-li-ki
