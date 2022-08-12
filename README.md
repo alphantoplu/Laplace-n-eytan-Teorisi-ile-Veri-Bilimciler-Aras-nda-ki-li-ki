@@ -1,4 +1,4 @@
-# Laplace'ınŞeytan Teorisi ile Veri-Bilimciler Arasındaki İlişki
+# Laplace'ın Şeytan Teorisi ile Veri-Bilimciler Arasındaki İlişki
 Bu yazıda Laplace'ın Şeytanı Teorisi ile veri biliminin arasındaki şahsi olarak kurduğum bağı konuşacağım.
 
 Laplace'ın Şeytanı Teorisini tanımak için öncelikle kendimize şu soruyu sormamız gerekir: Şans ne demek?
